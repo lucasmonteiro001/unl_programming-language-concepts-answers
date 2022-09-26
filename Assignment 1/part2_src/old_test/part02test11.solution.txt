@@ -1,0 +1,3 @@
+Semantic Error: Rule 2 Violated
+Semantic Error: Rule 4 Violated
+Semantic Error: Rule 6 Violated

@@ -1,0 +1,62 @@
+Start of Section: <=
+Name of Section: Positions
+Assignment of Value: <-
+Start of List: {
+Chute/Ladder/Space: 13
+Chute/Ladder/Space: 10
+Chute/Ladder/Space: 2
+Chute/Ladder/Space: 18
+End of List: }
+End of Section: =>
+Start of Section: <=
+Name of Section: Chutes
+Assignment of Value: <-
+Start of List: {
+Chute/Ladder/Space: 10
+Chute/Ladder/Space: 16
+Chute/Ladder/Space: 19
+Chute/Ladder/Space: 23
+End of List: }
+End of Section: =>
+Start of Section: <=
+Name of Section: Ladders
+Assignment of Value: <-
+Start of List: {
+Chute/Ladder/Space: 3
+Chute/Ladder/Space: 4
+End of List: }
+End of Section: =>
+Start of Section: <=
+Name of Section: GameBoard
+Assignment of Value: <-
+Start of Board: [
+Chute/Ladder/Space: 0
+Chute/Ladder/Space: 8
+Chute/Ladder/Space: 23
+Chute/Ladder/Space: 22
+Chute/Ladder/Space: 21
+Chute/Ladder/Space: 5
+End of Row: ^
+Chute/Ladder/Space: 14
+Chute/Ladder/Space: 15
+Chute/Ladder/Space: 16
+Chute/Ladder/Space: 2
+Chute/Ladder/Space: 18
+Chute/Ladder/Space: 19
+End of Row: ^
+Chute/Ladder/Space: 13
+Chute/Ladder/Space: 12
+Chute/Ladder/Space: 7
+Chute/Ladder/Space: 10
+Chute/Ladder/Space: 9
+Chute/Ladder/Space: 8
+End of Row: ^
+Chute/Ladder/Space: 2
+Chute/Ladder/Space: 3
+Chute/Ladder/Space: 6
+Chute/Ladder/Space: 11
+Chute/Ladder/Space: 6
+Chute/Ladder/Space: 7
+End of Board: ]
+End of Section: =>
+End of File

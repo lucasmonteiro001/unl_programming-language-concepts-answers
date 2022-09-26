@@ -1,0 +1,274 @@
+Start of Section: <=
+Name of Section: Positions
+Assignment of Value: <-
+Start of List: {
+Chute/Ladder/Space: 23
+Chute/Ladder/Space: 111
+Chute/Ladder/Space: 88
+Chute/Ladder/Space: 168
+End of List: }
+End of Section: =>
+Start of Section: <=
+Name of Section: Ladders
+Assignment of Value: <-
+Start of List: {
+Chute/Ladder/Space: 123
+Chute/Ladder/Space: 40
+End of List: }
+End of Section: =>
+Start of Section: <=
+Name of Section: Chutes
+Assignment of Value: <-
+Start of List: {
+Chute/Ladder/Space: 182
+Chute/Ladder/Space: 120
+Chute/Ladder/Space: 169
+Chute/Ladder/Space: 139
+End of List: }
+End of Section: =>
+Start of Section: <=
+Name of Section: GameBoard
+Assignment of Value: <-
+Start of Board: [
+Chute/Ladder/Space: 0
+Chute/Ladder/Space: 210
+Chute/Ladder/Space: 209
+Chute/Ladder/Space: 208
+Chute/Ladder/Space: 207
+Chute/Ladder/Space: 206
+Chute/Ladder/Space: 205
+End of Row: ^
+Chute/Ladder/Space: 198
+Chute/Ladder/Space: 199
+Chute/Ladder/Space: 200
+Chute/Ladder/Space: 201
+Chute/Ladder/Space: 202
+Chute/Ladder/Space: 203
+Chute/Ladder/Space: 204
+End of Row: ^
+Chute/Ladder/Space: 197
+Chute/Ladder/Space: 196
+Chute/Ladder/Space: 195
+Chute/Ladder/Space: 194
+Chute/Ladder/Space: 193
+Chute/Ladder/Space: 192
+Chute/Ladder/Space: 191
+End of Row: ^
+Chute/Ladder/Space: 184
+Chute/Ladder/Space: 185
+Chute/Ladder/Space: 186
+Chute/Ladder/Space: 187
+Chute/Ladder/Space: 188
+Chute/Ladder/Space: 189
+Chute/Ladder/Space: 190
+End of Row: ^
+Chute/Ladder/Space: 83
+Chute/Ladder/Space: 182
+Chute/Ladder/Space: 181
+Chute/Ladder/Space: 180
+Chute/Ladder/Space: 179
+Chute/Ladder/Space: 178
+Chute/Ladder/Space: 177
+End of Row: ^
+Chute/Ladder/Space: 4
+Chute/Ladder/Space: 171
+Chute/Ladder/Space: 172
+Chute/Ladder/Space: 173
+Chute/Ladder/Space: 174
+Chute/Ladder/Space: 175
+Chute/Ladder/Space: 176
+End of Row: ^
+Chute/Ladder/Space: 169
+Chute/Ladder/Space: 168
+Chute/Ladder/Space: 167
+Chute/Ladder/Space: 166
+Chute/Ladder/Space: 165
+Chute/Ladder/Space: 164
+Chute/Ladder/Space: 163
+End of Row: ^
+Chute/Ladder/Space: 156
+Chute/Ladder/Space: 157
+Chute/Ladder/Space: 158
+Chute/Ladder/Space: 159
+Chute/Ladder/Space: 160
+Chute/Ladder/Space: 161
+Chute/Ladder/Space: 162
+End of Row: ^
+Chute/Ladder/Space: 155
+Chute/Ladder/Space: 154
+Chute/Ladder/Space: 153
+Chute/Ladder/Space: 152
+Chute/Ladder/Space: 151
+Chute/Ladder/Space: 150
+Chute/Ladder/Space: 149
+End of Row: ^
+Chute/Ladder/Space: 142
+Chute/Ladder/Space: 143
+Chute/Ladder/Space: 144
+Chute/Ladder/Space: 145
+Chute/Ladder/Space: 146
+Chute/Ladder/Space: 147
+Chute/Ladder/Space: 148
+End of Row: ^
+Chute/Ladder/Space: 141
+Chute/Ladder/Space: 18
+Chute/Ladder/Space: 139
+Chute/Ladder/Space: 138
+Chute/Ladder/Space: 137
+Chute/Ladder/Space: 136
+Chute/Ladder/Space: 135
+End of Row: ^
+Chute/Ladder/Space: 128
+Chute/Ladder/Space: 129
+Chute/Ladder/Space: 130
+Chute/Ladder/Space: 131
+Chute/Ladder/Space: 132
+Chute/Ladder/Space: 133
+Chute/Ladder/Space: 134
+End of Row: ^
+Chute/Ladder/Space: 127
+Chute/Ladder/Space: 126
+Chute/Ladder/Space: 125
+Chute/Ladder/Space: 150
+Chute/Ladder/Space: 123
+Chute/Ladder/Space: 122
+Chute/Ladder/Space: 26
+End of Row: ^
+Chute/Ladder/Space: 114
+Chute/Ladder/Space: 115
+Chute/Ladder/Space: 116
+Chute/Ladder/Space: 117
+Chute/Ladder/Space: 118
+Chute/Ladder/Space: 119
+Chute/Ladder/Space: 120
+End of Row: ^
+Chute/Ladder/Space: 113
+Chute/Ladder/Space: 112
+Chute/Ladder/Space: 111
+Chute/Ladder/Space: 110
+Chute/Ladder/Space: 109
+Chute/Ladder/Space: 108
+Chute/Ladder/Space: 107
+End of Row: ^
+Chute/Ladder/Space: 100
+Chute/Ladder/Space: 101
+Chute/Ladder/Space: 102
+Chute/Ladder/Space: 103
+Chute/Ladder/Space: 104
+Chute/Ladder/Space: 105
+Chute/Ladder/Space: 106
+End of Row: ^
+Chute/Ladder/Space: 99
+Chute/Ladder/Space: 98
+Chute/Ladder/Space: 97
+Chute/Ladder/Space: 96
+Chute/Ladder/Space: 95
+Chute/Ladder/Space: 94
+Chute/Ladder/Space: 93
+End of Row: ^
+Chute/Ladder/Space: 86
+Chute/Ladder/Space: 87
+Chute/Ladder/Space: 88
+Chute/Ladder/Space: 89
+Chute/Ladder/Space: 90
+Chute/Ladder/Space: 91
+Chute/Ladder/Space: 92
+End of Row: ^
+Chute/Ladder/Space: 85
+Chute/Ladder/Space: 84
+Chute/Ladder/Space: 83
+Chute/Ladder/Space: 82
+Chute/Ladder/Space: 81
+Chute/Ladder/Space: 80
+Chute/Ladder/Space: 79
+End of Row: ^
+Chute/Ladder/Space: 72
+Chute/Ladder/Space: 73
+Chute/Ladder/Space: 74
+Chute/Ladder/Space: 75
+Chute/Ladder/Space: 76
+Chute/Ladder/Space: 77
+Chute/Ladder/Space: 78
+End of Row: ^
+Chute/Ladder/Space: 71
+Chute/Ladder/Space: 70
+Chute/Ladder/Space: 69
+Chute/Ladder/Space: 68
+Chute/Ladder/Space: 67
+Chute/Ladder/Space: 66
+Chute/Ladder/Space: 65
+End of Row: ^
+Chute/Ladder/Space: 58
+Chute/Ladder/Space: 59
+Chute/Ladder/Space: 60
+Chute/Ladder/Space: 61
+Chute/Ladder/Space: 62
+Chute/Ladder/Space: 63
+Chute/Ladder/Space: 64
+End of Row: ^
+Chute/Ladder/Space: 57
+Chute/Ladder/Space: 56
+Chute/Ladder/Space: 55
+Chute/Ladder/Space: 54
+Chute/Ladder/Space: 53
+Chute/Ladder/Space: 52
+Chute/Ladder/Space: 51
+End of Row: ^
+Chute/Ladder/Space: 44
+Chute/Ladder/Space: 45
+Chute/Ladder/Space: 46
+Chute/Ladder/Space: 47
+Chute/Ladder/Space: 48
+Chute/Ladder/Space: 49
+Chute/Ladder/Space: 50
+End of Row: ^
+Chute/Ladder/Space: 43
+Chute/Ladder/Space: 42
+Chute/Ladder/Space: 69
+Chute/Ladder/Space: 40
+Chute/Ladder/Space: 39
+Chute/Ladder/Space: 38
+Chute/Ladder/Space: 37
+End of Row: ^
+Chute/Ladder/Space: 30
+Chute/Ladder/Space: 31
+Chute/Ladder/Space: 32
+Chute/Ladder/Space: 33
+Chute/Ladder/Space: 34
+Chute/Ladder/Space: 35
+Chute/Ladder/Space: 36
+End of Row: ^
+Chute/Ladder/Space: 29
+Chute/Ladder/Space: 28
+Chute/Ladder/Space: 27
+Chute/Ladder/Space: 26
+Chute/Ladder/Space: 25
+Chute/Ladder/Space: 24
+Chute/Ladder/Space: 23
+End of Row: ^
+Chute/Ladder/Space: 16
+Chute/Ladder/Space: 17
+Chute/Ladder/Space: 18
+Chute/Ladder/Space: 19
+Chute/Ladder/Space: 20
+Chute/Ladder/Space: 21
+Chute/Ladder/Space: 22
+End of Row: ^
+Chute/Ladder/Space: 15
+Chute/Ladder/Space: 14
+Chute/Ladder/Space: 13
+Chute/Ladder/Space: 12
+Chute/Ladder/Space: 11
+Chute/Ladder/Space: 10
+Chute/Ladder/Space: 9
+End of Row: ^
+Chute/Ladder/Space: 2
+Chute/Ladder/Space: 3
+Chute/Ladder/Space: 4
+Chute/Ladder/Space: 5
+Chute/Ladder/Space: 6
+Chute/Ladder/Space: 7
+Chute/Ladder/Space: 8
+End of Board: ]
+End of Section: =>
+End of File
